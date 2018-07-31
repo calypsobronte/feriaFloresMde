@@ -2,6 +2,12 @@ h1 {
      color: #FCFDFC;
      font-size: 255%;
 }
+
 body {
-    background-image: url(./img/feria.jpg);
+    background-image: url(img/feria.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #66999;
 }
